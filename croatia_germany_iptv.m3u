@@ -47,7 +47,7 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 tvg-id="TVZapad.hr@SD" group-title="Croatia",TV Zapad (1080p) [Not 24/7]
 http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Croatia",Arena Sport 1 • Backup 2
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Croatia",Arena Sport 1
 #EXTVLCOPT:http-referrer=https://www.jagledam.com/
 https://gledamsport.com/o/794723915d7cf173141a.m3u8
 #EXTINF:-1 tvg-id="3sat.de@SD" group-title="Germany | Public",3sat (720p) [Geo-blocked]

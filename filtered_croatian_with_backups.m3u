@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" group-title="Croatia | General",HRT 1
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k34/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" group-title="Croatia | General",HRT 1 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls16/hrt1.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" group-title="Croatia | General",HRT 1 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k187/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" group-title="Croatia | General",HRT 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k166/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" group-title="Croatia | General",HRT 2 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls16/hrt2.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" group-title="Croatia | General",HRT 2 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k299/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" group-title="Croatia | General",HRT 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k293/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" group-title="Croatia | General",HRT 3 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k171/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" group-title="Croatia | General",HRT 3 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls16/hrt3.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4" tvg-logo="https://www.jagledam.com/logo/logohrt4.jpg" group-title="Croatia | General",HRT 4
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k576/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4" tvg-logo="https://www.jagledam.com/logo/logohrt4.jpg" group-title="Croatia | General",HRT 4 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k170/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HRT International" tvg-logo="https://www.jagledam.com/logo/logohrtint.jpg" group-title="Croatia | General",HRT International
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k752/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV" tvg-logo="https://www.jagledam.com/logo/logonova.jpg" group-title="Croatia | General",Nova TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/NovaHRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV" tvg-logo="https://www.jagledam.com/logo/logonova.jpg" group-title="Croatia | General",Nova TV • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV" tvg-logo="https://www.jagledam.com/logo/logonova.jpg" group-title="Croatia | General",Nova TV • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=nova&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doma" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" group-title="Croatia | General",Doma
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k189/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Doma" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" group-title="Croatia | General",Doma • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/DomaTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="https://www.jagledam.com/logo/logortl.jpg" group-title="Croatia | General",RTL
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k103/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="https://www.jagledam.com/logo/logortl.jpg" group-title="Croatia | General",RTL • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/RTLHRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="https://www.jagledam.com/logo/logortl.jpg" group-title="Croatia | General",RTL • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls13/rtl_hr.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="https://www.jagledam.com/logo/logortl.jpg" group-title="Croatia | General",RTL • Backup 4
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=rtl&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" group-title="Croatia | General",RTL 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k582/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" group-title="Croatia | General",RTL 2 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls6/rtl2_hr.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" group-title="Croatia | General",RTL 2 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=rtl2&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" group-title="Croatia | General",RTL 2 • Backup 4
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Croatia World" tvg-logo="https://www.jagledam.com/logo/logortlcroatiaworld.jpg" group-title="Croatia | General",RTL Croatia World
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=rtlcroatiaworld&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Croatia | Family",RTL Kockica
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Croatia | Family",RTL Kockica • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls16/rtl_kockica.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Croatia | Family",RTL Kockica • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1098/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="https://www.jagledam.com/logo/logortlkockica.jpg" group-title="Croatia | Family",RTL Kockica • Backup 4
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/RTLKockica/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="N1 info HR" tvg-logo="https://www.jagledam.com/logo/logon1info.jpg" group-title="Croatia | News",N1 info HR
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&player=m3u8&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="" tvg-name="Saborska TV" tvg-logo="https://www.jagledam.com/logo/logohrsabor.jpg" group-title="Croatia | News",Saborska TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://itv2.sabor.hr/saborHLS/sabor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Croatia | Sports",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k125/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Croatia | Sports",Arena Sport 1 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/o/794723915d7cf173141a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://www.jagledam.com/logo/logoarenasport1.jpg" group-title="Croatia | Sports",Arena Sport 1 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena1hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAXSport 1" tvg-logo="https://www.jagledam.com/logo/logomaxsport1.jpg" group-title="Croatia | Sports",MAXSport 1
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1168/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MAXSport 1" tvg-logo="https://www.jagledam.com/logo/logomaxsport1.jpg" group-title="Croatia | Sports",MAXSport 1 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.dstv.cx/MaxSport1HR/tracks-v1a1/mono.ts.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC90LWFkcmlhLmNvbVwvYXBpXC9sb2dpbiIsImlhdCI6MTc2ODIzNTcxNCwibmJmIjoxNzY4MjM1NzE0LCJqdGkiOiJtY2F1VnkyRlk1SHFLRlBYIiwic3ViIjoiQVJFTkFCQVRPIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pZCI6MzAzNTE1LCJpcCI6Ijk1Ljg1LjE1NC4yMTkiLCJ1c2VyX2lkIjo2NjMwN30.p5eFutS1Rka-AfbbXtgYayTDkshggPhWavgs_P9SUbE
+#EXTINF:-1 tvg-id="" tvg-name="MAXSport 2" tvg-logo="https://www.jagledam.com/logo/logomaxsport2.jpg" group-title="Croatia | Sports",MAXSport 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1169/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MAXSport 2" tvg-logo="https://www.jagledam.com/logo/logomaxsport2.jpg" group-title="Croatia | Sports",MAXSport 2 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.dstv.cx/MaxSport2HR/tracks-v1a1/mono.ts.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC90LWFkcmlhLmNvbVwvYXBpXC9sb2dpbiIsImlhdCI6MTc2ODIzNTcxNCwibmJmIjoxNzY4MjM1NzE0LCJqdGkiOiJtY2F1VnkyRlk1SHFLRlBYIiwic3ViIjoiQVJFTkFCQVRPIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pZCI6MzAzNTE1LCJpcCI6Ijk1Ljg1LjE1NC4yMTkiLCJ1c2VyX2lkIjo2NjMwN30.p5eFutS1Rka-AfbbXtgYayTDkshggPhWavgs_P9SUbE
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Croatia | Sports",Arena Sport 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k236/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Croatia | Sports",Arena Sport 2 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS2HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="https://www.jagledam.com/logo/logoarenasport2.jpg" group-title="Croatia | Sports",Arena Sport 2 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena2hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Croatia | Sports",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k969/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Croatia | Sports",Arena Sport 3 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena3hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="https://www.jagledam.com/logo/logoarenasport3.jpg" group-title="Croatia | Sports",Arena Sport 3 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS3HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Croatia | Sports",Arena Sport 4
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k228/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="https://www.jagledam.com/logo/logoarenasport4.jpg" group-title="Croatia | Sports",Arena Sport 4 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena4hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Croatia | Sports",Arena Sport 5
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k238/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Croatia | Sports",Arena Sport 5 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena5hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="https://www.jagledam.com/logo/logoarenasport5.jpg" group-title="Croatia | Sports",Arena Sport 5 • Backup 3
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS5HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6" tvg-logo="https://www.jagledam.com/logo/logoarenasport6.jpg" group-title="Croatia | Sports",Arena Sport 6
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1114/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6" tvg-logo="https://www.jagledam.com/logo/logoarenasport6.jpg" group-title="Croatia | Sports",Arena Sport 6 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://flow.gledamsport.com/proxy?c=arena6hr&file=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7" tvg-logo="https://www.jagledam.com/logo/logoarenasport7.jpg" group-title="Croatia | Sports",Arena Sport 7
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1040/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7" tvg-logo="https://www.jagledam.com/logo/logoarenasport7.jpg" group-title="Croatia | Sports",Arena Sport 7 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS7HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8" tvg-logo="https://www.jagledam.com/logo/logoarenasport8.jpg" group-title="Croatia | Sports",Arena Sport 8
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1041/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8" tvg-logo="https://www.jagledam.com/logo/logoarenasport8.jpg" group-title="Croatia | Sports",Arena Sport 8 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS8HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9" tvg-logo="https://www.jagledam.com/logo/logoarenasport9.jpg" group-title="Croatia | Sports",Arena Sport 9
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1112/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9" tvg-logo="https://www.jagledam.com/logo/logoarenasport9.jpg" group-title="Croatia | Sports",Arena Sport 9 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS9HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10" tvg-logo="https://www.jagledam.com/logo/logoarenasport10.jpg" group-title="Croatia | Sports",Arena Sport 10
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1113/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10" tvg-logo="https://www.jagledam.com/logo/logoarenasport10.jpg" group-title="Croatia | Sports",Arena Sport 10 • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://nl1.nghk.ai/AS10HRHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hajduk TV" tvg-logo="https://www.jagledam.com/logo/logohajduktv.jpg" group-title="Croatia | Sports",Hajduk TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1217/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HNTV" tvg-logo="https://www.jagledam.com/logo/logohntv.jpg" group-title="Croatia | Sports",HNTV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/175800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportska televizija" tvg-logo="https://www.jagledam.com/logo/logosptv.jpg" group-title="Croatia | Sports",Sportska televizija
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k174/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="https://www.jagledam.com/logo/logocmc.jpg" group-title="Croatia | Music",CMC
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="https://www.jagledam.com/logo/logocmc.jpg" group-title="Croatia | Music",CMC • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k172/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CRO TV" tvg-logo="https://www.jagledam.com/logo/logocrotv.jpg" group-title="Croatia | Music",CRO TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/o/19669682762740ab4fd209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="https://www.jagledam.com/logo/logobanovina.jpg" group-title="Croatia | Music",Banovina TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="https://www.jagledam.com/logo/logojugoton.jpg" group-title="Croatia | Music",Jugoton
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://stream.cmctv.hr:49998/jugoton/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton" tvg-logo="https://www.jagledam.com/logo/logojugoton.jpg" group-title="Croatia | Music",Jugoton • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k397/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Klape i tambure" tvg-logo="https://www.jagledam.com/logo/logoklapeitambure.jpg" group-title="Croatia | Music",Klape i tambure
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Z1" tvg-logo="https://www.jagledam.com/logo/logoz1.jpg" group-title="Croatia | Regional",Z1
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k777/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV Dalmacija" tvg-logo="https://www.jagledam.com/logo/logotvdalmacija.jpg" group-title="Croatia | Regional",TV Dalmacija
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1099/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV Istra" tvg-logo="https://www.jagledam.com/logo/logotvistra.jpg" group-title="Croatia | Regional",TV Istra
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+http://hrv.00387.info/TVIstra/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Ri" tvg-logo="https://www.jagledam.com/logo/logokanalri.jpg" group-title="Croatia | Regional",Kanal Ri
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Ri" tvg-logo="https://www.jagledam.com/logo/logokanalri.jpg" group-title="Croatia | Regional",Kanal Ri • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k457/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka TV" tvg-logo="https://www.jagledam.com/logo/osjecka.jpg" group-title="Croatia | Regional",Osjecka TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://live.osjecka.com/live/main_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka TV" tvg-logo="https://www.jagledam.com/logo/osjecka.jpg" group-title="Croatia | Regional",Osjecka TV • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k371/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Varazdinska VTV" tvg-logo="https://www.jagledam.com/logo/logovtv.jpg" group-title="Croatia | Regional",Varazdinska VTV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k456/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Vinkovacka TV" tvg-logo="https://www.jagledam.com/logo/logovinkovacka.jpg" group-title="Croatia | Regional",Vinkovacka TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vinkovacka TV" tvg-logo="https://www.jagledam.com/logo/logovinkovacka.jpg" group-title="Croatia | Regional",Vinkovacka TV • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k177/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV Zapad" tvg-logo="https://www.jagledam.com/logo/logotelevizijazapad.jpg" group-title="Croatia | Regional",TV Zapad
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k903/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jadran" tvg-logo="https://www.jagledam.com/logo/logojadran.jpg" group-title="Croatia | Regional",Jadran
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diadora" tvg-logo="https://www.jagledam.com/logo/logodiadoratv.jpg" group-title="Croatia | Regional",Diadora
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k918/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Diadora" tvg-logo="https://www.jagledam.com/logo/logodiadoratv.jpg" group-title="Croatia | Regional",Diadora • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Libertas TV" tvg-logo="https://www.jagledam.com/logo/logolibertastv.jpg" group-title="Croatia | Regional",Libertas TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jabuka TV" tvg-logo="https://www.jagledam.com/logo/logojabuka.jpg" group-title="Croatia | Regional",Jabuka TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k277/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SB TV" tvg-logo="https://www.jagledam.com/logo/logosbtv.jpg" group-title="Croatia | Regional",SB TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-logo="https://www.jagledam.com/logo/slavonska.jpg" group-title="Croatia | Regional",STV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k176/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-logo="https://www.jagledam.com/logo/slavonska.jpg" group-title="Croatia | Regional",STV • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova" tvg-logo="https://www.jagledam.com/logo/logotvnova.jpg" group-title="Croatia | Regional",TV Nova
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DokuTV" tvg-logo="https://www.jagledam.com/logo/logodokutv.jpg" group-title="Croatia | Documentaries",DokuTV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k1162/.mpd
+#EXTINF:-1 tvg-id="" tvg-name="DokuTV" tvg-logo="https://www.jagledam.com/logo/logodokutv.jpg" group-title="Croatia | Documentaries",DokuTV • Backup 2
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://gledamsport.com/mw/hls7/doku_tv.mpd?n=browsernullPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX00ISQpT00001BKh6UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBXUdET1tBVEECwMgMyhcR19SRFZd
+#EXTINF:-1 tvg-id="" tvg-name="Školska TV" tvg-logo="https://www.jagledam.com/logo/logoskolskatv.jpg" group-title="Croatia | Education",Školska TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://uzivo.skolska-tv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Laudato TV" tvg-logo="https://www.jagledam.com/logo/logolaudatotv.jpg" group-title="Croatia | Culture & Faith",Laudato TV
+#EXTVLCOPT:http-referrer=https://www.jagledam.com/
+https://www.jagledam.com/k901/.mpd

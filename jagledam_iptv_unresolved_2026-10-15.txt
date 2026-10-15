@@ -1,0 +1,752 @@
+JaGledam – player pages that could not be resolved (125)
+Reason: no stream URL could be read from the page source or the hidden-iframe check (cross-origin embed, Twitch/YouTube embed, DRM or an obfuscated player).
+
+Sport Klub 1
+  channel page: https://www.jagledam.com/Sport-Klub-1-HRV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=192
+  embed:        https://jagledam.com/pprog.php?can=192
+  reason:       fetch failed (Failed to fetch)
+
+Sport Klub 2
+  channel page: https://www.jagledam.com/Sport-Klub-2-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=178
+  embed:        https://jagledam.com/pprog.php?can=178
+  reason:       fetch failed (Failed to fetch)
+
+TV Herceg Novi
+  channel page: https://www.jagledam.com/TV-Herceg-Novi-uzivo-stream
+  player page:  https://www.jagledam.com/k1301/91a61a31de04d77841045a54ac7429ba
+  embed:        https://www.jagledam.com/k1301/91a61a31de04d77841045a54ac7429ba
+  reason:       Twitch embed (no direct stream URL)
+
+BIR TV
+  channel page: https://www.jagledam.com/BIR-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2323
+  embed:        https://jagledam.com/pprog.php?can=2323
+  reason:       fetch failed (Failed to fetch)
+
+City TV Mostar
+  channel page: https://www.jagledam.com/City-TV-Mostar-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=924
+  embed:        https://jagledam.com/pprog.php?can=924
+  reason:       fetch failed (Failed to fetch)
+
+Herceg TV
+  channel page: https://www.jagledam.com/Herceg-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=825
+  embed:        https://jagledam.com/pprog.php?can=825
+  reason:       fetch failed (Failed to fetch)
+
+Historija TV
+  channel page: https://www.jagledam.com/Historija-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=4651
+  embed:        https://jagledam.com/pprog.php?can=4651
+  reason:       fetch failed (Failed to fetch)
+
+imperia TV
+  channel page: https://www.jagledam.com/imperia-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2303
+  embed:        https://jagledam.com/pprog.php?can=2303
+  reason:       fetch failed (Failed to fetch)
+
+Kanal 6
+  channel page: https://www.jagledam.com/Kanal-6-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=644
+  embed:        https://jagledam.com/pprog.php?can=644
+  reason:       fetch failed (Failed to fetch)
+
+mtv Igman
+  channel page: https://www.jagledam.com/mtv-Igman-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=382
+  embed:        https://jagledam.com/pprog.php?can=382
+  reason:       fetch failed (Failed to fetch)
+
+MY TV
+  channel page: https://www.jagledam.com/MY-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=4819
+  embed:        https://jagledam.com/pprog.php?can=4819
+  reason:       fetch failed (Failed to fetch)
+
+Neon TV
+  channel page: https://www.jagledam.com/Neon-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1954
+  embed:        https://jagledam.com/pprog.php?can=1954
+  reason:       fetch failed (Failed to fetch)
+
+Neon TV
+  channel page: https://www.jagledam.com/Neon-TV-uzivo-stream
+  player page:  https://www.jagledam.com/k1068/b33196310e48e85c9f15f2a85b3ad152
+  embed:        https://demo.flashphoner.com/embed_player?urlServer=wss://demo.flashphoner.com:8443&streamName=rtsp%3A%2F%2F185.50.56.16%3A554%2Fneontelvizija&mediaProviders=WebRTC,MSE
+  reason:       no stream URL found in page source
+
+O Kanal Plus
+  channel page: https://www.jagledam.com/O-Kanal-Plus-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3746
+  embed:        https://jagledam.com/pprog.php?can=3746
+  reason:       fetch failed (Failed to fetch)
+
+OTV Valentino Etno
+  channel page: https://www.jagledam.com/OTV-Valentino-Etno-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1908
+  embed:        https://jagledam.com/pprog.php?can=1908
+  reason:       fetch failed (Failed to fetch)
+
+OTV Valentino Music
+  channel page: https://www.jagledam.com/OTV-Valentino-Music-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1909
+  embed:        https://jagledam.com/pprog.php?can=1909
+  reason:       fetch failed (Failed to fetch)
+
+RTV 7 Tuzla
+  channel page: https://www.jagledam.com/RTV-7-Tuzla-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1820
+  embed:        https://jagledam.com/pprog.php?can=1820
+  reason:       fetch failed (Failed to fetch)
+
+RTV Gorazde
+  channel page: https://www.jagledam.com/RTV-Gorazde-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1249
+  embed:        https://jagledam.com/pprog.php?can=1249
+  reason:       fetch failed (Failed to fetch)
+
+RTV HB
+  channel page: https://www.jagledam.com/RTV-HB-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1907
+  embed:        https://jagledam.com/pprog.php?can=1907
+  reason:       fetch failed (Failed to fetch)
+
+RTV Lukavac
+  channel page: https://www.jagledam.com/RTV-Lukavac-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1939
+  embed:        https://jagledam.com/pprog.php?can=1939
+  reason:       fetch failed (Failed to fetch)
+
+RTV USK
+  channel page: https://www.jagledam.com/RTV-USK-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=38
+  embed:        https://jagledam.com/pprog.php?can=38
+  reason:       fetch failed (Failed to fetch)
+
+RTV Vogošća
+  channel page: https://www.jagledam.com/RTV-Vogosca-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=285
+  embed:        https://jagledam.com/pprog.php?can=285
+  reason:       fetch failed (Failed to fetch)
+
+RTV Zenica
+  channel page: https://www.jagledam.com/RTV-Zenica-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=286
+  embed:        https://jagledam.com/pprog.php?can=286
+  reason:       fetch failed (Failed to fetch)
+
+Sahar TV BiH
+  channel page: https://www.jagledam.com/Sahar-TV-BiH-uzivo-stream
+  player page:  https://www.jagledam.com/k744/54e3aed07e8f33aa65962056bb49057a
+  embed:        https://player.castr.com/live_160da7f01d5711f18affcdfc39943165
+  reason:       no stream URL found in page source
+
+Sevdah TV
+  channel page: https://www.jagledam.com/Sevdah-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1758
+  embed:        https://jagledam.com/pprog.php?can=1758
+  reason:       fetch failed (Failed to fetch)
+
+Shoptel
+  channel page: https://www.jagledam.com/Shoptel-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=6381
+  embed:        https://jagledam.com/pprog.php?can=6381
+  reason:       fetch failed (Failed to fetch)
+
+Slon TV
+  channel page: https://www.jagledam.com/Slon-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=284
+  embed:        https://jagledam.com/pprog.php?can=284
+  reason:       fetch failed (Failed to fetch)
+
+Smart TV
+  channel page: https://www.jagledam.com/Smart-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1595
+  embed:        https://jagledam.com/pprog.php?can=1595
+  reason:       fetch failed (Failed to fetch)
+
+Televizija 5
+  channel page: https://www.jagledam.com/Televizija-5-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1235
+  embed:        https://jagledam.com/pprog.php?can=1235
+  reason:       fetch failed (Failed to fetch)
+
+Televizija Banovici
+  channel page: https://www.jagledam.com/Televizija-Banovici-uzivo-stream
+  player page:  https://www.jagledam.com/k661/a2f3f268749c6b3a79213c7d7c1fc75a
+  embed:        http://cdn.livestream.com/embed/banovicitv?layout=4&color=0xe7e7e7&autoPlay=true&mute=false&iconColorOver=0x888888&iconColor=0x777777height=475&width=715
+  reason:       no stream URL found in page source
+
+TNT Kids
+  channel page: https://www.jagledam.com/TNT-Kids-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1757
+  embed:        https://jagledam.com/pprog.php?can=1757
+  reason:       fetch failed (Failed to fetch)
+
+Tropik TV
+  channel page: https://www.jagledam.com/Tropik-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=673
+  embed:        https://jagledam.com/pprog.php?can=673
+  reason:       fetch failed (Failed to fetch)
+
+TV Visoko
+  channel page: https://www.jagledam.com/TV-Visoko-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=642
+  embed:        https://jagledam.com/pprog.php?can=642
+  reason:       fetch failed (Failed to fetch)
+
+DMC
+  channel page: https://www.jagledam.com/DMC-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=519
+  embed:        https://jagledam.com/pprog.php?can=519
+  reason:       fetch failed (Failed to fetch)
+
+ExtraTV
+  channel page: https://www.jagledam.com/ExtraTV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1897
+  embed:        https://jagledam.com/pprog.php?can=1897
+  reason:       fetch failed (Failed to fetch)
+
+Food Network
+  channel page: https://www.jagledam.com/Food-Network-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=383
+  embed:        https://jagledam.com/pprog.php?can=383
+  reason:       fetch failed (Failed to fetch)
+
+HRT 4
+  channel page: https://www.jagledam.com/HRT-4-uzivo-stream
+  player page:  https://www.jagledam.com/k279/e2e107fe5ae945e81863829f6f145a0f
+  embed:        https://www.jagledam.com/k279/e2e107fe5ae945e81863829f6f145a0f
+  reason:       no stream URL found in page source
+
+ICT Business TV
+  channel page: https://www.jagledam.com/ICT-Business-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=4440
+  embed:        https://jagledam.com/pprog.php?can=4440
+  reason:       fetch failed (Failed to fetch)
+
+Klape i tambure
+  channel page: https://www.jagledam.com/Klape-i-tambure-uzivo-stream
+  player page:  https://jagledam/pprog.php?can=910
+  embed:        https://jagledam/pprog.php?can=910
+  reason:       fetch failed (Failed to fetch)
+
+M1 Family
+  channel page: https://www.jagledam.com/M1-Family-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1701
+  embed:        https://jagledam.com/pprog.php?can=1701
+  reason:       fetch failed (Failed to fetch)
+
+M1 Gold
+  channel page: https://www.jagledam.com/M1-Gold-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=962
+  embed:        https://jagledam.com/pprog.php?can=962
+  reason:       fetch failed (Failed to fetch)
+
+Nova Cinema
+  channel page: https://www.jagledam.com/Nova-Cinema-uzivo-stream
+  player page:  https://www.jagledam.com/k0/8d00c6e6debf11b37a7d5ff28413b583
+  embed:        https://www.jagledam.com/k0/8d00c6e6debf11b37a7d5ff28413b583
+  reason:       no stream URL found in page source
+
+Nova Cinema
+  channel page: https://www.jagledam.com/Nova-Cinema-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1808
+  embed:        https://jagledam.com/pprog.php?can=1808
+  reason:       fetch failed (Failed to fetch)
+
+Nova Family
+  channel page: https://www.jagledam.com/Nova-Family-uzivo-stream
+  player page:  https://www.jagledam.com/k0/655fda4dd71a36dc5f9f93345d18398d
+  embed:        https://www.jagledam.com/k0/655fda4dd71a36dc5f9f93345d18398d
+  reason:       no stream URL found in page source
+
+Nova Family
+  channel page: https://www.jagledam.com/Nova-Family-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1799
+  embed:        https://jagledam.com/pprog.php?can=1799
+  reason:       fetch failed (Failed to fetch)
+
+Nova World
+  channel page: https://www.jagledam.com/Nova-World-uzivo-stream
+  player page:  https://box.tvprofil.com/tvbox/?c=1691
+  embed:        https://box.tvprofil.com/tvbox/?c=1691
+  reason:       fetch failed (Failed to fetch)
+
+Saborska TV
+  channel page: https://www.jagledam.com/Saborska-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=521
+  embed:        https://jagledam.com/pprog.php?can=521
+  reason:       fetch failed (Failed to fetch)
+
+Sport Klub 11
+  channel page: https://www.jagledam.com/Sport-Klub-11-uzivo-stream
+  player page:  https://www.jagledam.com/k1190/6b19e233a8e1ce85a89d6baebd647e83
+  embed:        https://cdn-live.tv/api/v1/channels/player/?name=sport+klub&code=hr&user=cdnlivetv&plan=free&first=0
+  reason:       no stream URL found in page source
+
+Sport Klub 3
+  channel page: https://www.jagledam.com/Sport-Klub-3-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=311
+  embed:        https://jagledam.com/pprog.php?can=311
+  reason:       fetch failed (Failed to fetch)
+
+Sport Klub 4
+  channel page: https://www.jagledam.com/Sport-Klub-4-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=523
+  embed:        https://jagledam.com/pprog.php?can=523
+  reason:       fetch failed (Failed to fetch)
+
+Sport Klub Golf
+  channel page: https://www.jagledam.com/Sport-Klub-Golf-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=397
+  embed:        https://jagledam.com/pprog.php?can=397
+  reason:       fetch failed (Failed to fetch)
+
+sportska tv
+  channel page: https://www.jagledam.com/sportska-tv-uzivo-stream
+  player page:  https://www.jagledam.com/k267/46046feacc55526e3b75806c246dac2f
+  embed:        https://player.onestream.live/embed?token=MzY2MTE1Ng==&type=up
+  reason:       no stream URL found in page source
+
+Toon Kids
+  channel page: https://www.jagledam.com/Toon-Kids-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2319
+  embed:        https://jagledam.com/pprog.php?can=2319
+  reason:       fetch failed (Failed to fetch)
+
+Trend TV
+  channel page: https://www.jagledam.com/Trend-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=331
+  embed:        https://jagledam.com/pprog.php?can=331
+  reason:       fetch failed (Failed to fetch)
+
+TV Dalmacija
+  channel page: https://www.jagledam.com/TV-Dalmacija-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=106
+  embed:        https://jagledam.com/pprog.php?can=106
+  reason:       fetch failed (Failed to fetch)
+
+TV Nova
+  channel page: https://www.jagledam.com/TV-Nova-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=101
+  embed:        https://jagledam.com/pprog.php?can=101
+  reason:       fetch failed (Failed to fetch)
+
+TV Zapad
+  channel page: https://www.jagledam.com/TV-Zapad-uzivo-stream
+  player page:  https://www.jagledam.com/k1203/9c47c9eeaaf053ae191f87a30ed21327
+  embed:        https://zapad.tv/
+  reason:       no stream URL found in page source
+
+Z1
+  channel page: https://www.jagledam.com/Z1-uzivo-stream
+  player page:  https://www.jagledam.com/k778/8ce277d3a8617769e65295e02024d1fc
+  embed:        https://player.castr.com/live_07439d80cdd311ef8af99bfde92b2456
+  reason:       no stream URL found in page source
+
+360 Tune Box
+  channel page: https://www.jagledam.com/360-Tune-Box-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1905
+  embed:        https://jagledam.com/pprog.php?can=1905
+  reason:       fetch failed (Failed to fetch)
+
+DM SAT
+  channel page: https://www.jagledam.com/DM-SAT-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=217
+  embed:        https://jagledam.com/pprog.php?can=217
+  reason:       fetch failed (Failed to fetch)
+
+DocuBox
+  channel page: https://www.jagledam.com/DocuBox-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=890
+  embed:        https://jagledam.com/pprog.php?can=890
+  reason:       fetch failed (Failed to fetch)
+
+extra FM Leposavić
+  channel page: https://www.jagledam.com/extra-FM-Leposavic-uzivo-stream
+  player page:  https://www.jagledam.com/k1210/fd30f74305bdb7e81373ec97570e5e32
+  embed:        https://player.kick.com/extrafmleposavic
+  reason:       no stream URL found in page source
+
+FashionBox
+  channel page: https://www.jagledam.com/FashionBox-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1902
+  embed:        https://jagledam.com/pprog.php?can=1902
+  reason:       fetch failed (Failed to fetch)
+
+Fast and Fun Box
+  channel page: https://www.jagledam.com/Fast-and-Fun-Box-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=891
+  embed:        https://jagledam.com/pprog.php?can=891
+  reason:       fetch failed (Failed to fetch)
+
+FightBox
+  channel page: https://www.jagledam.com/FightBox-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=900
+  embed:        https://jagledam.com/pprog.php?can=900
+  reason:       fetch failed (Failed to fetch)
+
+Gametoon
+  channel page: https://www.jagledam.com/Gametoon-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1903
+  embed:        https://jagledam.com/pprog.php?can=1903
+  reason:       fetch failed (Failed to fetch)
+
+Kanal 9 Novi Sad
+  channel page: https://www.jagledam.com/Kanal-9-Novi-Sad-uzivo-stream
+  player page:  https://www.jagledam.com/k550/a5e4f1d1585214629118a846e5915abe
+  embed:        https://player.twitch.tv/?channel=tvkanal9
+  reason:       Twitch embed (no direct stream URL)
+
+N1 info SRB
+  channel page: https://www.jagledam.com/N1-info-SRB-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1232
+  embed:        https://jagledam.com/pprog.php?can=1232
+  reason:       fetch failed (Failed to fetch)
+
+Newsmax Balkans
+  channel page: https://www.jagledam.com/Newsmax-Balkans-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=8803
+  embed:        https://jagledam.com/pprog.php?can=8803
+  reason:       fetch failed (Failed to fetch)
+
+Pi Canal
+  channel page: https://www.jagledam.com/Pi-Canal-uzivo-stream
+  player page:  https://www.jagledam.com/k515/fb67f30cc6733a33be16b8fe31e36b12
+  embed:        https://stream.pikanal.rs/picanal-flash/html5.php
+  reason:       no stream URL found in page source
+
+RTV 1
+  channel page: https://www.jagledam.com/RTV-1-uzivo-stream
+  player page:  https://www.jagledam.com/k96/5a106f76999cee9ed931f04a7e9800b0
+  embed:        https://demo.flashphoner.com/embed_player?urlServer=wss://demo.flashphoner.com:8443&streamName=rtmp://212.200.230.50:1935/RTV/rtv1&mediaProviders=WebRTC,MSE
+  reason:       no stream URL found in page source
+
+RTV 2
+  channel page: https://www.jagledam.com/RTV-2-uzivo-stream
+  player page:  https://www.jagledam.com/k109/6e81dc8a391c2a0d0a6299a7dce30b9a
+  embed:        https://demo.flashphoner.com/embed_player?urlServer=wss://demo.flashphoner.com:8443&streamName=rtmp://212.200.230.50:1935/RTV/rtv2&mediaProviders=WebRTC,MSE
+  reason:       no stream URL found in page source
+
+RTV OK
+  channel page: https://www.jagledam.com/RTV-OK-uzivo-stream
+  player page:  https://www.jagledam.com/k1039/11539a8af6e4ece23f72a42bede87ddf
+  embed:        https://odysee.com/$/embed/@rtvok:0/live:779?r=5S2Wbwsts1SfvP5ZTPSXQr1eR8baAUAy
+  reason:       no stream URL found in page source
+
+SUPERSTAR 3
+  channel page: https://www.jagledam.com/SUPERSTAR-3-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=7468
+  embed:        https://jagledam.com/pprog.php?can=7468
+  reason:       fetch failed (Failed to fetch)
+
+TimeOut
+  channel page: https://www.jagledam.com/TimeOut-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1821
+  embed:        https://jagledam.com/pprog.php?can=1821
+  reason:       fetch failed (Failed to fetch)
+
+Toxic Rap
+  channel page: https://www.jagledam.com/Toxic-Rap-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3401
+  embed:        https://jagledam.com/pprog.php?can=3401
+  reason:       fetch failed (Failed to fetch)
+
+TOXIC TV
+  channel page: https://www.jagledam.com/TOXIC-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3399
+  embed:        https://jagledam.com/pprog.php?can=3399
+  reason:       fetch failed (Failed to fetch)
+
+Turisticki Kanal
+  channel page: https://www.jagledam.com/Turisticki-Kanal-uzivo-stream
+  player page:  https://www.jagledam.com/k870/8d8437d5da2f8c39e639996e19714896
+  embed:        http://playerv.hosting022.com/video/turistickikanal/2/true/false/V1hwT1UyUkhVbkZWV0Zab1VucHNObHBGWkhOa1ZuQTJVVmhzVG1GVVZuRlpha2wzVUZFOVBRPT0rUg==/16:9/YUhSMGNEb3ZMM2QzZHk1MGRYSnBjM1JwWTJ0cGEyRnVZV3d1Ym1WMEx3PT0rRA==
+  reason:       no stream URL found in page source
+
+TV Jumbo
+  channel page: https://www.jagledam.com/TV-Jumbo-uzivo-stream
+  player page:  https://www.jagledam.com/k513/cda21846c64c5d9d72b98e117740f750
+  embed:        http://www.ustream.tv/embed/16776146?v=3&wmode=direct
+  reason:       no stream URL found in page source
+
+TV Pančevo
+  channel page: https://www.jagledam.com/TV-Pancevo-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1991
+  embed:        https://jagledam.com/pprog.php?can=1991
+  reason:       fetch failed (Failed to fetch)
+
+TV Partizan
+  channel page: https://www.jagledam.com/TV-Partizan-uzivo-stream
+  player page:  https://www.jagledam.com/k697/665296a36ad106fef245bd623f6c9244
+  embed:        https://www.jagledam.com/k697/665296a36ad106fef245bd623f6c9244
+  reason:       no stream URL found in page source
+
+TV Raska
+  channel page: https://www.jagledam.com/TV-Raska-uzivo-stream
+  player page:  https://www.jagledam.com/k514/a7c59f9afa64377d73c9ba0649ceef12
+  embed:        http://www.ustream.tv/embed/12823637?v=3&wmode=direct
+  reason:       no stream URL found in page source
+
+VIP HD
+  channel page: https://www.jagledam.com/VIP-HD-uzivo-stream
+  player page:  https://www.jagledam.com/k645/084a428f0157b6fc2e4947f6cbdafed2
+  embed:        https://www.jagledam.com/k645/084a428f0157b6fc2e4947f6cbdafed2
+  reason:       no stream URL found in page source
+
+Vlasotince TV
+  channel page: https://www.jagledam.com/Vlasotince-TV-uzivo-stream
+  player page:  https://www.jagledam.com/k863/3dcb17c9ce57a9a3889fc3ddc5564452
+  embed:        https://rtsp.me/embed/RnSFTHHd/
+  reason:       no stream URL found in page source
+
+GTV
+  channel page: https://www.jagledam.com/GTV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3560
+  embed:        https://jagledam.com/pprog.php?can=3560
+  reason:       fetch failed (Failed to fetch)
+
+TOP TV Slovenia
+  channel page: https://www.jagledam.com/TOP-TV-Slovenia-uzivo-stream
+  player page:  http://176.123.4.45/pprog.php?can=2427
+  embed:        http://176.123.4.45/pprog.php?can=2427
+  reason:       fetch failed (Failed to fetch)
+
+RTCG MNE
+  channel page: https://www.jagledam.com/RTCG-MNE-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=73
+  embed:        https://jagledam.com/pprog.php?can=73
+  reason:       fetch failed (Failed to fetch)
+
+24 vesti
+  channel page: https://www.jagledam.com/24-vesti-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=512
+  embed:        https://jagledam.com/pprog.php?can=512
+  reason:       fetch failed (Failed to fetch)
+
+Folk TV Makedonija
+  channel page: https://www.jagledam.com/Folk-TV-Makedonija-uzivo-stream
+  player page:  https://www.jagledam.com/k813/25f921e8ce31c2392903d0596721bcac
+  embed:        https://stream.nasatv.com.mk/folktv/
+  reason:       no stream URL found in page source
+
+Kanal 8
+  channel page: https://www.jagledam.com/Kanal-8-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=598
+  embed:        https://jagledam.com/pprog.php?can=598
+  reason:       fetch failed (Failed to fetch)
+
+Kanal Vis
+  channel page: https://www.jagledam.com/Kanal-Vis-uzivo-stream
+  player page:  https://www.jagledam.com/k915/bd8e9003750e8a058abaf6d5a5256cb1
+  embed:        https://ok.ru/videoembed/1558398049893?nochat=1&autoplay=1
+  reason:       no stream URL found in page source
+
+MRT 3
+  channel page: https://www.jagledam.com/MRT-3-uzivo-stream
+  player page:  http://176.123.4.45/pprog.php?can=2556
+  embed:        http://176.123.4.45/pprog.php?can=2556
+  reason:       fetch failed (Failed to fetch)
+
+MRT 4
+  channel page: https://www.jagledam.com/MRT-4-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3554
+  embed:        https://jagledam.com/pprog.php?can=3554
+  reason:       fetch failed (Failed to fetch)
+
+MRT 5
+  channel page: https://www.jagledam.com/MRT-5-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3553
+  embed:        https://jagledam.com/pprog.php?can=3553
+  reason:       fetch failed (Failed to fetch)
+
+Naša TV
+  channel page: https://www.jagledam.com/Na%C5%A1a-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=375
+  embed:        https://jagledam.com/pprog.php?can=375
+  reason:       fetch failed (Failed to fetch)
+
+Shenja
+  channel page: https://www.jagledam.com/Shenja-uzivo-stream
+  player page:  http://176.123.4.45/pprog.php?can=2018
+  embed:        http://176.123.4.45/pprog.php?can=2018
+  reason:       fetch failed (Failed to fetch)
+
+Televizioni Koha
+  channel page: https://www.jagledam.com/Televizioni-Koha-uzivo-stream
+  player page:  http://176.123.4.45/pprog.php?can=599
+  embed:        http://176.123.4.45/pprog.php?can=599
+  reason:       fetch failed (Failed to fetch)
+
+Telma
+  channel page: https://www.jagledam.com/Telma-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=213
+  embed:        https://jagledam.com/pprog.php?can=213
+  reason:       fetch failed (Failed to fetch)
+
+Tera TV
+  channel page: https://www.jagledam.com/Tera-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=146
+  embed:        https://jagledam.com/pprog.php?can=146
+  reason:       fetch failed (Failed to fetch)
+
+TV MTM
+  channel page: https://www.jagledam.com/TV-MTM-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=376
+  embed:        https://jagledam.com/pprog.php?can=376
+  reason:       fetch failed (Failed to fetch)
+
+TV Sonce
+  channel page: https://www.jagledam.com/TV-Sonce-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=514
+  embed:        https://jagledam.com/pprog.php?can=514
+  reason:       fetch failed (Failed to fetch)
+
+news 24
+  channel page: https://www.jagledam.com/news-24-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1996
+  embed:        https://jagledam.com/pprog.php?can=1996
+  reason:       fetch failed (Failed to fetch)
+
+RTK 1
+  channel page: https://www.jagledam.com/RTK-1-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=242
+  embed:        https://jagledam.com/pprog.php?can=242
+  reason:       fetch failed (Failed to fetch)
+
+RTK 2
+  channel page: https://www.jagledam.com/RTK-2-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2042
+  embed:        https://jagledam.com/pprog.php?can=2042
+  reason:       fetch failed (Failed to fetch)
+
+RTK 4
+  channel page: https://www.jagledam.com/RTK-4-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2044
+  embed:        https://jagledam.com/pprog.php?can=2044
+  reason:       fetch failed (Failed to fetch)
+
+RTV 21
+  channel page: https://www.jagledam.com/RTV-21-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=243
+  embed:        https://jagledam.com/pprog.php?can=243
+  reason:       fetch failed (Failed to fetch)
+
+RTV Besa
+  channel page: https://www.jagledam.com/RTV-Besa-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2049
+  embed:        https://jagledam.com/pprog.php?can=2049
+  reason:       fetch failed (Failed to fetch)
+
+Super Sport 1 HD
+  channel page: https://www.jagledam.com/Super-Sport-1-HD-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1809
+  embed:        https://jagledam.com/pprog.php?can=1809
+  reason:       fetch failed (Failed to fetch)
+
+Super Sport 2 HD
+  channel page: https://www.jagledam.com/Super-Sport-2-HD-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1810
+  embed:        https://jagledam.com/pprog.php?can=1810
+  reason:       fetch failed (Failed to fetch)
+
+Super Sport 3 HD
+  channel page: https://www.jagledam.com/Super-Sport-3-HD-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1811
+  embed:        https://jagledam.com/pprog.php?can=1811
+  reason:       fetch failed (Failed to fetch)
+
+Super Sport 4 HD
+  channel page: https://www.jagledam.com/Super-Sport-4-HD-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1812
+  embed:        https://jagledam.com/pprog.php?can=1812
+  reason:       fetch failed (Failed to fetch)
+
+T7
+  channel page: https://www.jagledam.com/T7-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=3682
+  embed:        https://jagledam.com/pprog.php?can=3682
+  reason:       fetch failed (Failed to fetch)
+
+Vizion Plus
+  channel page: https://www.jagledam.com/Vizion-Plus-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=603
+  embed:        https://jagledam.com/pprog.php?can=603
+  reason:       fetch failed (Failed to fetch)
+
+Zico TV
+  channel page: https://www.jagledam.com/Zico-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1946
+  embed:        https://jagledam.com/pprog.php?can=1946
+  reason:       fetch failed (Failed to fetch)
+
+City TV
+  channel page: https://www.jagledam.com/City-TV-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=2444
+  embed:        https://jagledam.com/pprog.php?can=2444
+  reason:       fetch failed (Failed to fetch)
+
+Duna
+  channel page: https://www.jagledam.com/Duna-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=459
+  embed:        https://jagledam.com/pprog.php?can=459
+  reason:       fetch failed (Failed to fetch)
+
+Duna World
+  channel page: https://www.jagledam.com/Duna-World-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=462
+  embed:        https://jagledam.com/pprog.php?can=462
+  reason:       fetch failed (Failed to fetch)
+
+M1
+  channel page: https://www.jagledam.com/M1-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=128
+  embed:        https://jagledam.com/pprog.php?can=128
+  reason:       fetch failed (Failed to fetch)
+
+M2
+  channel page: https://www.jagledam.com/M2-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=129
+  embed:        https://jagledam.com/pprog.php?can=129
+  reason:       fetch failed (Failed to fetch)
+
+M4 Sport
+  channel page: https://www.jagledam.com/M4-Sport-uzivo-stream
+  player page:  https://www.jagledam.com/k619/5d7f13c6ec903542c794620a5ed4fbcb
+  embed:        https://www.jagledam.com/k619/5d7f13c6ec903542c794620a5ed4fbcb
+  reason:       no stream URL found in page source
+
+M4 Sport
+  channel page: https://www.jagledam.com/M4-Sport-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=916
+  embed:        https://jagledam.com/pprog.php?can=916
+  reason:       fetch failed (Failed to fetch)
+
+M5
+  channel page: https://www.jagledam.com/M5-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=1594
+  embed:        https://jagledam.com/pprog.php?can=1594
+  reason:       fetch failed (Failed to fetch)
+
+RTL HU
+  channel page: https://www.jagledam.com/RTL-Klub-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=138
+  embed:        https://jagledam.com/pprog.php?can=138
+  reason:       fetch failed (Failed to fetch)
+
+Na a TV
+  channel page: https://www.jagledam.com/Na-a-TV-uzivo-stream
+  player page:  -
+  embed:        -
+  reason:       HTTP 404
+
+TV Zelina
+  channel page: https://www.jagledam.com/TV-Zelina-uzivo-stream
+  player page:  https://jagledam.com/pprog.php?can=4208
+  embed:        https://jagledam.com/pprog.php?can=4208
+  reason:       fetch failed (Failed to fetch)
